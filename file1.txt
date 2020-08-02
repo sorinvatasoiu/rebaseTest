@@ -1,1 +1,3 @@
 first line
+line 2 added in b1
+line 3 added in b1
